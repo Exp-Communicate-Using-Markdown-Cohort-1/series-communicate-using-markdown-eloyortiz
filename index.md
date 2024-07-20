@@ -1,5 +1,7 @@
-# header 1
-## header 2
-### header 3
-#### header 4
+# Yaktocat
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## Code sample
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
